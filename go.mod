@@ -1,4 +1,4 @@
-module github.com/FuaAlfu/handling-json-in-go
+module handling-json-in-go
 
 go 1.16
 

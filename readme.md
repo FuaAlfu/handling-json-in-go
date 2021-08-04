@@ -14,4 +14,9 @@ export GOPATH=$GOROOT
 unset GOROOT
 ```
 
+##  GO111MODULE set "on" or "off"
+```
+go env -w GO111MODULE=off
+```
+
 ---
