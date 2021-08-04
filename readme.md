@@ -8,7 +8,7 @@ lang: all
 go get -u github.com/gorilla/mux
 ```
 
-## Go a problem with lunch? GOPATH should be set to
+## Got a problem with lunch? GOPATH should be set to
 ```
 export GOPATH=$GOROOT
 unset GOROOT
